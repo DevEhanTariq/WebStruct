@@ -1,0 +1,9 @@
+# Enviorment variables
+FRONTEND/ .env
+BACKEND/ .env
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
